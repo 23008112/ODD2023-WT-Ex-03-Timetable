@@ -116,4 +116,4 @@ Execute the program
 ```
 
 # OUPUT
-![Alt text](timetable.png)
+![Screenshot 2023-11-16 083707](https://github.com/23008112/ODD2023-WT-Ex-03-Timetable/assets/138972470/151657be-1b02-4872-b6d6-3f7c0a5b29bf)
